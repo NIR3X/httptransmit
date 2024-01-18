@@ -154,6 +154,7 @@ func (httpTransmit *HttpTransmit) HandleTransmit(w http.ResponseWriter, r *http.
 	httpTransmit.mtx.Unlock()
 
 	if !ok {
+		w.WriteHeader(http.StatusUnauthorized)
 		return
 	}
 
