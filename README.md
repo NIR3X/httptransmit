@@ -16,7 +16,7 @@ HTTP Transmit is a Go-based proxy server that facilitates encrypted proxying of 
 To use this package, you can install it using go get command:
 
 ```bash
-go get github.com/NIR3X/httptransmit
+go get -u github.com/NIR3X/httptransmit
 ```
 
 # Usage
