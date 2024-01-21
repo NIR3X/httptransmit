@@ -1,2 +1,4 @@
 github.com/NIR3X/fxms v0.0.0-20240116160923-5e2c3224e263 h1:Clsm7X1zv+3gDyVeB3pn5bbfVU5fVuupgNNL8eQJARc=
 github.com/NIR3X/fxms v0.0.0-20240116160923-5e2c3224e263/go.mod h1:OEeU+LBTzwM/vYbuXrIheFfqw3DAYcbHpBhrnSMe4nA=
+github.com/NIR3X/fxms v0.0.0-20240120165118-5fa60c631f4b h1:8soyEILCLl6LqWewcrgSZkDuYz+hncfp+CIbVHQHqBk=
+github.com/NIR3X/fxms v0.0.0-20240120165118-5fa60c631f4b/go.mod h1:OEeU+LBTzwM/vYbuXrIheFfqw3DAYcbHpBhrnSMe4nA=
